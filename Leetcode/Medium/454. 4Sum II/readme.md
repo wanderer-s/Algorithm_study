@@ -25,9 +25,9 @@ Output: 1;
 
 #### Constraints:
 
-- n == nums1.length
-- n == nums2.length
-- n == nums3.length
-- n == nums4.length
-- 1 <= n <= 200
-- -2²⁸ <= nums1[i], nums2[i], nums3[i], nums4[i] <= 2²⁸`
+- `n == nums1.length`
+- `n == nums2.length`
+- `n == nums3.length`
+- `n == nums4.length`
+- `1 <= n <= 200`
+- `-2²⁸ <= nums1[i], nums2[i], nums3[i], nums4[i] <= 2²⁸`
