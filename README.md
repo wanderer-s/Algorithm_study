@@ -42,8 +42,9 @@ PR의 Reviewer가 아니더라도 적극적으로 해보아요
 - 잘한 부분은 잘했다고 적극적인 피드백
 - 변수명, 비즈니스 로직 등 코드를 봤을 때 이해가 안가거나 모호한 부분 질문 - 질문받은 사람은 이를 설명하면서 다시 복기할 수 있고 질문한 사람은 답변을 보고 로직에 관한 지식을 얻는 게 목적
 - 개선사항 제안
-```
+
 ## 폴더구조
+```
 .
 ├── Leetcode
 │   ├── Easy
@@ -74,7 +75,7 @@ PR의 Reviewer가 아니더라도 적극적으로 해보아요
 │           ├── readme.md
 │           └── example.js
 ├── Programmers
-│   ├── Easy
+│   ├── Level1
 │   │   ├── 모의고사
 │   │   │   ├── readme.md
 │   │   │   └── example.js
@@ -91,7 +92,7 @@ PR의 Reviewer가 아니더라도 적극적으로 해보아요
 │   │   └── 체육복
 │   │       ├── readme.md
 │   │       └── example.js
-│   └── Medium
+│   └── Level2
 │       ├── 기능개발
 │       │   ├── readme.md
 │       │   └── example.js
