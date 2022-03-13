@@ -11,12 +11,14 @@ Algorithm 문제는 정답이 하나로 정해져 있지 않기때문에 많은 
 
 ## 참여 방법
 
-1. 해당 repository fork
+1. 해당 repository fork 후 github id로 branch 생성
 2. `Leetcode`, `Programmers` 포함 기타 다른 문제풀이 사이트에서 본인이 풀어보고자 하는 문제를 선정
 3. 1. 아래 첨부된 폴더구조에 맞게 폴더 및 `readme.md` 작성 <br>(해당 사이트의 문제설명과 똑같이 작성하고, link도 걸어주세요 - 기존에 작성된 `readme.md` 파일 참고..!)
    2. 폴더가 존재한다면 본인의 문제풀이만 `githubId(or nickname).본인이 풀은 언어의 확장자` 로 생성하여 작성.<br>(최대한 변수명과 logic이 명확하게 작성해주세요. _이렇게 배워 갈 수 있는 협업 환경!!_) <br>
       **ex)** `bestDev.js`, `bestDeb.py`, `bestDev.java` etc..
-4. fork한 자신의 repository에 push push!
+   3. 필수는 아니지만 algorithm 사이트의 결과값을 주석으로 포함하면 더 좋아요! <br>
+      **ex)** ``` Runtime 60ms	Memory 40.7MB```
+4. fork한 자신의 branch에 push push!
 
 ### PR 및 commit 규칙
 
@@ -36,7 +38,8 @@ Algorithm 문제는 정답이 하나로 정해져 있지 않기때문에 많은 
 
 같은 언어를 쓰는 사람들끼리 코드리뷰를 하면서 서로의 코드를 보며 성장해봅시다.<br>
 PR의 Reviewer가 아니더라도 적극적으로 해보아요<br>
-Reviewer는 아무리 늦어도 이틀안에 comment를 남기고 PR을 요청한 본인이 확인 후 merge 합시다!
+Reviewer는 아무리 늦어도 이틀안에 comment를 남기고 PR을 요청한 본인이 확인 후 merge 합시다!<br>
+매번 master branch는 pull request해서 최신화를 유지해요!
 
 - 리뷰시 구체적이고 명시적인 피드백 제공
 - 오타의 유무
@@ -44,7 +47,7 @@ Reviewer는 아무리 늦어도 이틀안에 comment를 남기고 PR을 요청�
 - 변수명, 비즈니스 로직 등 코드를 봤을 때 이해가 안가거나 모호한 부분 질문 - 질문받은 사람은 이를 설명하면서 다시 복기할 수 있고 질문한 사람은 답변을 보고 로직에 관한 지식을 얻는 게 목적
 - 개선사항 제안
 
-## 폴더구조
+## 폴더구조 예시
 
 ```
 .
